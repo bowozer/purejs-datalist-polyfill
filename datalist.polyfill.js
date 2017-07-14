@@ -14,6 +14,7 @@
         return;
     }
     
+
     var inputs = document.querySelectorAll('input[list]');
     
     var triggerEvent = function(elem, eventType) {
@@ -53,7 +54,7 @@
         var visibleItems = null;
         fakeList.id = listId;
         fakeList.className = LIST_CLASS;
-        document.body.appendChild( fakeList );
+        input.parentElement.appendChild(fakeList);
 
         var scrollValue = 0;
 
