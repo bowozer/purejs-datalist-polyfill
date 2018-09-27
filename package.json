@@ -1,0 +1,28 @@
+{
+  "name": "bowozer-purejs-datalist-polyfill",
+  "version": "0.1.0",
+  "description": "Forked version for purejs-datalist-polyfill.",
+  "main": "datalist.polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowozer/purejs-datalist-polyfill.git"
+  },
+  "keywords": [
+    "datalist",
+    "polyfill",
+    "ios",
+    "iphone",
+    "ipad",
+    "safari",
+    "mobile"
+  ],
+  "author": "Originaly by Fyrd (github:Fyrd), forked and maintained by bowo (github:bowozer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowozer/purejs-datalist-polyfill/issues"
+  },
+  "homepage": "https://github.com/bowozer/purejs-datalist-polyfill#readme"
+}
